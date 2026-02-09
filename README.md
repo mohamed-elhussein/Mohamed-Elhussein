@@ -23,7 +23,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://Mohamed-Elhussein.github.io/)
       
-## 🔭 What I'm Currently Working On 
+<!--## 🔭 What I'm Currently Working On 
 
 - **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
 - **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
@@ -32,7 +32,7 @@ When I'm not working with data, I enjoy [Your Hobby or Passion, e.g., creating c
 ## 🌱 Currently Learning 
 
 - [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]-->
 
 ## 🛠️ Technical Skillset
 
